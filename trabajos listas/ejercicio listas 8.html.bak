@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> Ejercicio Listas 8 </title>
+	</head>
+	<body>
+		<ol type="I" start="5">
+		 <li> hola </li>
+		 <li> hola </li>
+		 <li> hola </li>
+		</ol>
+		<ul>
+			<li> ciao </li>
+			<ol reversed>
+			 <li> Buenas </li>
+			 <li> Buenas </li>
+			 <li> Buenas </li>
+			</ol>
+			 <li> ciao </li>
+			 <li> ciao </li>
+		</ul>
+		<ol type="A">
+		 <li> Tardes </li>
+		 <li> Tardes </li>
+		 <li> Tardes </li>
+		</ol>
+	</body>
+</html>

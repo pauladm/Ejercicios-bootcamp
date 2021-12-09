@@ -1,0 +1,52 @@
+<!doctype>
+<html>
+	<head>
+		<title>Ejercicio 1 nuevo css</title>
+		<meta charset="utf-8"/>
+	    <link rel="stylesheet"
+		type="text/css"
+	    href=" SE codigo.css"
+		media="screen">
+	</head>
+	<body> 
+	
+	
+	
+	
+      <div id="header">
+         <img class="imagen"src="mito.jpg"/>
+         <a href="inicio.html" rel="next" target="_self">Inicio</a> 
+         <a href="servicios.html" rel="next" target="_blank">Servicios</a> 
+         <a href="nosotros.html" rel="next" target="_blank">Nosotros</a> 
+         <a href="contactos.html"  rel="next" target="_blank">Contactos </a> 
+    </div>
+	 
+	   <section id="content">
+	   
+		<article class="article">
+		<img src= "https://i.pinimg.com/originals/3a/ac/65/3aac658bc4089412a47befbcd496c717.jpg"></img>
+		<p> Esta pagina habla de la mitologia a lo largo de los años</p> 
+		</article> 
+		
+	    <article class="article">
+		<img src ="mito2.jpg"></img>
+		<p>Si te gusta la mitologia, esta es tu pagina ideal.¡Ven a descubrir más con nosotros!</p>
+		</article>
+		
+	
+       </section>		 
+	   
+	  <aside>
+	  
+	   <h2>Ultimas noticias</h2>
+	   <form>
+	   <a href="https://es.wikipedia.org/wiki/Mitolog%C3%ADa_griega"></a>
+		   <input type="text">
+		   <input type="submit" value="buscar"/>
+	   </form>
+	   </aside>
+	    <div class="clearfix"></div>
+	</div>
+  </body>
+</html>
+	   

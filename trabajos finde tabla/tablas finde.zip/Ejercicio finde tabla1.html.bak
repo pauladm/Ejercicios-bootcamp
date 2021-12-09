@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title> Titulo </title>
+    </head>
+    <body>
+
+        <h2>Ejercicio1</h2>
+
+        <table    border=""
+                cellpadding=""
+                cellspacing=""
+                width="100%"
+                height="300px"
+                align=""
+                bgcolor=""
+                background=""
+                bordercolor=""
+        >
+                <tbody>
+                  <tr>
+                    <th colspan="3" height="20%">Encabezado</th>
+				
+
+                  </tr>
+                  <tr>
+                    <td background="https://image.shutterstock.com/image-photo/nice-shaped-fresh-celery-leaves-260nw-129823652.jpg"></td>
+                    <td background="https://image.shutterstock.com/image-photo/nice-shaped-fresh-celery-leaves-260nw-129823652.jpg"></td>
+					<td background="https://image.shutterstock.com/image-photo/nice-shaped-fresh-celery-leaves-260nw-129823652.jpg"></td>
+	
+                    
+                  </tr>
+                </tbody>
+        </table>
+
+        <p></p>
+
+    </body>
+</html>

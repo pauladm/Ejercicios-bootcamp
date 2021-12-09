@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title> Ejercicios finde tabla 3 </title>
+    </head>
+    <body>
+
+        <h2>Ejercicio 3</h2>
+
+        <table  border="4"
+                cellpadding=""
+                cellspacing=""
+                width="auto"
+                height="AUTO"
+                align=""
+                bgcolor=""
+                background=""
+				bordercolor="RED"
+        >
+                <tbody>
+			 
+                  <tr>
+                   
+                    <th rowspan="3">ES NOCHE</th>
+                    <th rowspan="3">de</th>
+                    <th rowspan="3"> Free FIRE</th>
+					<td>Es noche de free fire </td>
+                    <td>Es noche de free fire</td>
+                    <td>Es noche de free fire</td>
+				  <tr>
+				  	<td>Es noche de free fire </td>
+                    <td>Es noche de free fire</td>
+                    <td>Es noche de free fire</td>
+				  <tr>
+				  	<td>Es noche de free fire </td>
+                    <td>Es noche de free fire</td>
+                    <td>Es noche de free fire</td>
+				  </tr>
+				
+                </tbody>
+        </table>
+
+        <p></p>
+
+    </body>
+</html>

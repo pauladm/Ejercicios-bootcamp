@@ -1,0 +1,28 @@
+<!Doctype html>
+<html>
+	<head>
+	 <title>EJERCICIO CSS 6</title>
+	 <meta charset="utf-8">
+	</head>
+     <body>
+	  <form name="Inscripción al botcamp" action="" method="post" target="_blank" >
+                   
+      </form>
+	 	
+
+
+		<input type="text" placeholder="nombre" name="nombre">	
+		<input type="email" placeholder="email" name="email">
+		<input type="direción" placeholder="direción" name="direción">	
+	    
+		<input type="checkbox" name="cambio de vida" value="cambio de vida"> cambio de vida<br>
+     	<input type="checkbox" name="aburrimiento" value="aburrimiento"> aburrimiento <br>
+		<input type="checkbox" name="Las cervezas" value="las cervezas" checked> las cervezas<br>
+        <input type="radio" name="genero" id="masculino" value="masculino" checked> <label for="masculino">Masculino</label>
+		<input type="radio" name="genero" id="femenino"  value="femenino" > <label for="Femenino">Femenino</label> 
+		<input type="radio" name="genero" id="helicoptero apache"  value="helicoptero apache" > <label for="helicoptero apache">Femenino</label> 
+		<input type="radio" name="genero" value="otro"> Otro
+
+		
+		
+</html>

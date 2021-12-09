@@ -1,0 +1,27 @@
+<!Doctype html>
+<html>
+	<head>
+	 <title>EJERCICIO CSS 2</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet"
+		type="text/css"
+	    href="codigo.css"
+		media="screen">
+	
+	</head>
+		<body>
+			<div class="main">
+			<h1>Div</h1>
+			  <p>
+				primer parrafo
+			  </p>
+			  <p>
+				hola me llamo Paula,
+			  </p>
+			  
+			</div>
+		 </body>
+		
+		
+		
+</html>

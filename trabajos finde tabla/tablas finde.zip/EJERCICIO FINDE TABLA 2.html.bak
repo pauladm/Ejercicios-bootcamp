@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title> Ejercicios finde Tabla 2 </title>
+    </head>
+    <body>
+
+
+        <table    border=""
+                cellpadding=""
+                cellspacing=""
+                width="auto"
+                height="AUTO"
+                align=""
+                bgcolor=""
+                background=""
+        >
+                <tbody>
+                    <td>NO</td>
+                    <td>MAS</td>
+                    <td>APIO</td>
+                </tbody>
+        </table>
+
+        <p></p>
+
+    </body>
+</html>

@@ -1,0 +1,47 @@
+<!doctype>
+<html>
+	<head>
+		<title>Ejercicio 1 nuevo css</title>
+		<meta charset="utf-8"/>
+	    <link rel="stylesheet"
+		type="text/css"
+	    href="2css.css"
+		media="screen">
+	</head>
+	<body>  
+		
+      <div id="header"/>
+         <a href="inicio.html" rel="next" target="_self">Inicio</a> 
+         <a href="servicios.html" rel="next" target="_blank">Servicios</a> 
+         <a href="nosostros.html" rel="next" target="_blank">Nosotros</a> 
+         <a href="contacto.html"  rel="next" target="_blank">Contactos </a> 
+    </div>
+	 
+      
+	 <section class="pricing-plan">
+		<div class="pricing-plan__header"></div>
+		<h1 class="pricing-plan__title">starter plan</h1>
+		<h2 class="pricing-plan__sumary">For those getting star</h2>
+		
+		<div class="pricing-plan__description">
+		<ul class="pricing-plan list">
+		<li class="pricing-plan__feature">Feature #1</li>
+		<li class="pricing-plan__feature">Feature #2</li>
+		<li class="pricing-plan__feature">Feature #3</li>
+		
+		</ul>
+		</div>
+		<div class="pricing-plan__action">
+			<p class="pricing-plan__cost">15€</p>
+			<p class="pricing-plan__cost">primer month</p>
+			<a href="./"class="pricing-plan__button"></a>
+			<p class="pricing-plan__text">Minimum spend 30€ 12 meses</p>
+			</div>
+				<div class="pricing-plan__action">
+			
+			<p class="pricing-plan__cost">compralo</p>
+			<a href="./"class="pricing-plan__button"></a>
+			<p class="pricing-plan__text">Minimum spend 60€ 2 años</p>
+			</div>
+	 </section>
+	</body>

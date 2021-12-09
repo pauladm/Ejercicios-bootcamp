@@ -1,0 +1,18 @@
+<!DOCTYPE>
+ <html>
+ <head>
+  <title>Ejercicio lista 3</title>
+  <meta charset="utf-8">
+ </head>
+  
+   <body>
+    <ol type="1">
+	 <li><a href="https://dle.rae.es/jabal%C3%AD" target="_blank">pincha aqui</a></li>
+	 <li><a href="https://www.google.com/" target="_blank">pincha aqui</a>
+	 </li>
+	</ol>
+	<ol type="A">
+	 <li><img src="panda_0.webp.jpg"/></li>
+	 <li><img src="maslo.jpg"/></li>
+   </body>
+ </html>

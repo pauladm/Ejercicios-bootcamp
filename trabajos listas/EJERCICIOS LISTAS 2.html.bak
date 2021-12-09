@@ -1,0 +1,24 @@
+<!--Crea una lista numerada donde incluyas encabezados, negritas y cursivas-->
+<!doctype>
+<html>
+ <head>
+  <title>Ejercicio lista 2</title>
+  <meta charset="utf-8">
+ </head>
+  
+   <body>
+    <ol type="1">
+	 <li><a href="1-estructura-html.html">apuntes html</a>
+	 <li><a href="2-charset-title-doctype.html">Apuntes </a>
+	 <li><a href="3-parrafos-saltos-de-linea-encabezados.html">parrafo apuntes</a>
+	 <li><a href="4-textos-asociados-al-tipo-de-letra.html">apuntes letra</a>
+	 <li><a href="5-textos-asociados-al-tipo-de-informacion.html">apuntes 5</a>
+	 <li><a href="6-enlaces.html">apuntes enlaces</a>
+	 <li><a href="7-images.html">apuntes imagen</a>
+	 <li><a href="8-tablas.html">apuntes tabla</a>
+	</ol>
+	 
+   </body>
+ </html>
+	
+	 

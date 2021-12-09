@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title> Tabla finde 6  </title>
+    </head>
+    <body>
+        <h2>Redes sociales </h2>
+        <table border="3"
+                cellpadding=""
+                cellspacing=""
+                width=""
+                height=""
+                align=""
+                bgcolor=""
+                background=""
+			>
+			
+	  <tbody>
+        <tr>
+          <th>NOMBRE</th>
+          <th>VALORACIÓN</th>
+          <th>ENLACE</th>
+		  
+       </tr>      
+       <tr>
+	     <td>Pinterest</td>
+		 <td rowspan="2"><p>UN 7</p>
+		   <p><mark>tiene fotos bonitas</mark></p></td>
+		 <td rowspan="2"><a href= "Españahttps://www.pinterest.es" rel="next" target="_blank">
+		  visita <br/> Pinterest</a></td>
+	   </tr>
+				    
+       <tr>
+		<td background= "pinterest.jpg" width="450px"height="350px"></td>
+	   </tr>
+	   </tr>
+	   <tr>
+		 <td>Facebook</td>
+		 <td rowspan="2">
+		  <p>un 6</p>
+		  <p><mark>Esta defasado</mark></p>
+		 </td>
+		 <td rowspan="2"><a href="https://es-es.facebook.com/" rel="next" target="_blank">
+     		 Visita <br/>Facebook</a>
+	     </td>
+	    </tr>		
+	    <tr>
+		 <td background= "facebook-alargado.jpg"width="700px"height="750px">
+		 </td>
+	    </tr>
+	    <tr>
+		  <td>Instagram</td>
+		  <td rowspan="2">
+		   <p>un 9</p>
+		   <p><mark>Es entretenido</mark></p>
+		  </td>
+		   <td rowspan="2"><a href="https://www.facebook.com" rel="next" target="_blank">
+		     visitar <br/>instagram </a></td>
+		</tr>
+	    <tr>
+		   <td background="ig.jpg" width="400px"height="450px">
+		   </td>
+	    </tr>
+	  </tbody>
+    </table>
+	</body>
+</html>
+				
+					
+		        
+				   

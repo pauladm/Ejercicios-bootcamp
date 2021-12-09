@@ -1,0 +1,34 @@
+<!DOCTYPE>
+ <html>
+ <head>
+  <title>Ejercicio lista 3</title>
+  <meta charset="utf-8">
+ </head>
+  
+  <body>
+   <dl>
+     <dt>vale
+	  <dt>ok es su sigificado
+	 </dt>
+	 
+    <ol>
+     <ul>
+	  <li>ropa
+	  <li>silla
+	  <li>mayonesa
+	  </li>
+	 </ul>
+   <ol type="I">
+    <li>hola
+	<li>adios
+	<li>q tal
+	</li>
+	 
+    </ol>
+    </dl>
+  </body>
+ </html>
+  
+	
+	
+   

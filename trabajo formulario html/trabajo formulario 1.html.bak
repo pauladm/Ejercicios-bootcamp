@@ -1,0 +1,15 @@
+<!Doctype>
+ <html>
+	<head>
+		<title>Formularios 1</title>
+		<meta charset="utf-8"/>
+	<body>
+		<form>
+			<form name="Registro" action="" method="get" target="_blank" />
+                  
+			<input type="text" nombre="email" placeholder="email" >
+			<input type="password" nombre="contraseña"  placeholder="contraseña">
+			<input type="submit" value="finalizar registro"> 
+			
+			</form>
+                

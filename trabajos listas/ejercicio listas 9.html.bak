@@ -1,0 +1,16 @@
+<!DOCTYPE>
+ <html>
+ <head>
+  <title>Ejercicio lista 9</title>
+  <meta charset="utf-8">
+ </head>
+    
+   <body>
+    <ol type="5">
+	 <li color="blue"><i>hola</i>
+	 <li color="red"
+	 <li color="green"
+	 <li color="orange"
+	 <li color="pink"
+	 </li>
+	</ol>

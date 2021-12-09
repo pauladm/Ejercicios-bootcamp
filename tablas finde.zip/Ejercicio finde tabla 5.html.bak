@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title> Tabla 2  </title>
+    </head>
+    <body>
+        <h2>tabla</h2>
+        <table border="1
+                cellpadding="2px%"
+                cellspacing="5px%"
+                width=""
+                height=""
+                align="center"
+                bgcolor=""
+                background=""
+			>
+              
+		
+                <tbody>
+                  <tr>
+                    <th>1</th>
+					<th bgcolor="green">ID</th>
+                    <th bgcolor="green"VENDEDOR</th>
+                    <th bgcolor="green"PRODUCTO</th>
+					<th bgcolor="green"PRECIO</th>
+					<th bgcolor="green"MES</th>
+                  </tr>
+                  <tr bgcolor="#87CEEB" >
+                    <td >2</td>
+					<td align="right"></td>
+                    <td align="right">1 MACA PRABO</td>
+                    <td align="right">MOVIL</td>
+					<td align="right">250€</td>
+                    <td align="right">ENERO</td>
+                  </tr>
+                  <tr>
+					<td>3</td>
+					<td align="right"></td>
+					<td align="right">2 MARCA PRABO</td>
+                    <td align="right">TABLET</td>
+                    <td align="right">350€</td>
+					<td align="right">ENERO</td>
+					</tr>
+				  <tr bgcolor="#87CEEB">
+				   <td>4</td>
+				    <td align="right"></td>
+                    <td align="right">3 Merk adona</td>
+                    <td align="right">PS4</td>
+					<td align="right">400€</td>
+					<td align="right">MARZO</td>
+				   </tr>
+				  <tr>
+				   <td>5</td>
+				    <td align="right"></td>
+                    <td align="right">4 CARL EFUR </td>
+                    <td align="right">tablet</td>
+					<td align="right">350€</td>
+					<td align="right">Marzo</td>
+				   </tr>
+				  <tr bgcolor="#87CEEB">
+				   <td>6</td>
+				   <td align="right"></td>
+                    <td align="right">5 MERK ADONA</td>
+                    <td align="right">ANTI VIRUS</td>
+					<td align="right">130€</td>
+					<td align="right">ENERO</td>
+				   </tr>
+				  <tr>
+				   <td>7</td>
+				   <td align="right"></td>
+                    <td align="right">6 MARCA PRABO</td>
+                    <td align="right">6</td>
+					<td align="right">35</td>
+					<td align="right">210</td>
+				  </tr>
+				  <tr  bgcolor="#87CEEB">
+				    <td>8</td>
+				    <td align="right"></td>
+                    <td align="right">7 MACA PRABO </td>
+                    <td align="right">PS4</td>
+					<td align="right">400€</td>
+					<td align="right">ENERO</td>
+				  </tr>
+				  <tr>
+				   <td>9</td>
+				   <td align="right"></td>
+                    <td align="right">8 MIKAL CAMPO</td>
+                    <td align="right">PC</td>
+					<td align="right">600€</td>
+					<td align="right">Febrero</td>
+				   </tr>
+				   <tr  bgcolor="#87CEEB">
+				    <td>10</td>
+					<td align="right"></td>
+                    <td align="right">9 MIKAL CAMPO</td>
+                    <td align="right">Anti virus</td>
+					<td align="right">130</td>
+					<td align="right">Febrero</td>
+				   </tr>
+				   <tr  bgcolor="#87CEEB">
+				     <td>11</td>
+				     <td align="right"></td>
+                     <td align="right">10 MIKAL CAMPO</td>
+					 <td align="right">ps4</td>
+					 <td align="right">400</td>
+					 <td align="right">Febrero</td>
+				    </tr>
+				     <td>12</td>
+				     <td align="right"></td>
+                     <td align="right">11 HASAN CHARRO</td>
+					 <td align="right">ANTI VIRUS</td>
+					 <td align="right">130€</td>
+					 <td align="right">ENERO</td>
+					</tr>
+					<tr bgcolor="#87CEEB">
+				     <td>13</td>
+				     <td align="right"></td>
+                     <td align="right">12 MERK CADONA</td>
+					 <td align="right">AURICULARES</td>
+					 <td align="right">25</td>
+					 <td align="right">ENERO</td>
+					</tr>
+					<tr> 
+				     <td>14</td>
+				     <td align="right"></td>
+                     <td align="right">13 MIKAL CAMPO</td>
+					 <td align="right">PC</td>
+					 <td align="right">600€</td>
+					 <td align="right">ENERO</td>
+					 </tr>
+				<tr  bgcolor="#87CEEB">
+				    <td>15</td>
+				     <td align="right"></td>
+                     <td align="right">14 CAR REFUR</td>
+					 <td align="right">ps4</td>
+					 <td align="right">400€</td>
+					 <td align="right">Febrero</td>
+					 </tr>
+				 <tr>
+					<td>16</td>
+				     <td align="right"></td>
+                     <td align="right">15 HASAN</td>
+					 <td align="right">ps4</td>
+					 <td align="right">400€</td>
+					 <td align="right">Febrero</td>
+					</tr>
+				  <tr bgcolor="#87CEEB">
+			         <td>17</td>
+				     <td align="right"></td>
+                     <td align="right">16 CAR REFUR</td>
+					 <td align="right">ps4</td>
+					 <td align="right">400€</td>
+					 <td align="right">Febrero</td>
+					</tr>
+		
+		 </tbody>
+        </table>
+
+      
+
+    </body>
+</html>
+					
+					
+					
+					
+				   

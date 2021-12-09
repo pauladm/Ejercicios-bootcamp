@@ -1,0 +1,29 @@
+<!DOCTYPE>
+ <html>
+ <head>
+  <title>Ejercicio lista 3</title>
+  <meta charset="utf-8">
+ </head>
+    
+   <body>
+    <h1>Lista ordenada</h1>
+    <ol type="1">
+	 <li>Charli 
+	 <li>kevin
+	 <li>rodrigo 
+	 </li>
+	</ol>
+    <ol type="A">
+	 <li>Marron
+	 <li>azul
+	 <li>blanco
+	 </li>
+	</ol>
+    <ol type="1">
+	  <li>silla
+	  <li>mesa
+      <li>estuche
+	 </ol> 
+	
+ </body>
+ </html>
